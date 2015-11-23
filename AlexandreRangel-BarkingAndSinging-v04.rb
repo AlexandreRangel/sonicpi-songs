@@ -85,7 +85,4 @@ with_fx :compressor, threshold: 0.75, mix: 0.3 do
 
 end # fx compressor
 
-
-
-
 #
